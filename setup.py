@@ -9,6 +9,7 @@ long_description = open('README.rst', 'r').read()
 install_requires = [
     'behave>=1.2.5',
     'requests>=2.10.0',
+    'PyYAML>=5.3.1'
 ]
 
 setup(

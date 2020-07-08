@@ -1,2 +1,4 @@
-behave
+behave~=1.2.6
 requests>=2.10.0
+PyYAML~=5.3.1
+setuptools~=39.0.1
